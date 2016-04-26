@@ -1,0 +1,7 @@
+---
+layout: post
+title: "hello world"
+date: 2016-02-03 16:45:27 +0800 
+categories: news
+---
+我写的文章
